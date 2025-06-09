@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    direction: rtl;
+}
+@font-face {
+    font-family: 'iranyekan';
+    src: url('../public/font/iranyekan.ttf') format('truetype');
+    
+  }
