@@ -11,6 +11,8 @@ export default {
       },
       colors: {
         Neutral9: '#292C2D', 
+        Neutral3: '#C2C5C6', 
+        Neutral1: '#E1E2E3', 
       },
     },
   },
